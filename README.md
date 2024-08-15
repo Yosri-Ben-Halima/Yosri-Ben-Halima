@@ -26,3 +26,4 @@ Thank you for visiting my GitHub profile! Feel free to reach out if you have any
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yosri%20Ben%20Halima-blue)](https://www.linkedin.com/in/yosri-ben-halima-3553a9221/)
 [![Twitter](https://img.shields.io/badge/Facebook-@Yosry%20Ben%20Hlima-navy)](https://www.facebook.com/NottherealYxsry)
 [![Instagram](https://img.shields.io/badge/Instagram-@yosrybh-orange)](https://www.instagram.com/yosrybh/)
+[![Email](https://img.shields.io/badge/Email-yosri.benhalima@ept.ucar.tn-white)](yosri.benhalima@ept.ucar.tn)
