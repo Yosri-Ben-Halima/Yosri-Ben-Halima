@@ -2,7 +2,7 @@
 
 ## 👋 Introduction
 
-Hi there! I'm **Yosri Ben Halima**, a Data Scientist with a robust background in applied mathematics, machine learning, and quantitative finance. I specialize in developing data-driven solutions and creating impactful visualizations. Dive into my work to see how I turn data into actionable insights!
+Hi there! I'm **Yosri Ben Halima**, a Quantitative Researcher/Data Scientist with a robust background in applied mathematics, machine learning, and quantitative finance. I specialize in developing data-driven solutions and creating impactful visualizations. Dive into my work to see how I turn data into actionable insights!
 
 ## 🔍 What I Do
 
