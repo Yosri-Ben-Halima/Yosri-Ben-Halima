@@ -21,7 +21,7 @@ I leverage my expertise in Python, machine learning, and mathemarical modeling t
 
 ## 🌐 Connect with Me
 
-Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or opportunities to collaborate. Let's connect and explore new possibilities together!
+Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or opportunities to collaborate. Let's connect and explore new possibilities together:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yosri%20Ben%20Halima-blue)](https://www.linkedin.com/in/yosri-ben-halima-3553a9221/)
 [![Twitter](https://img.shields.io/badge/Facebook-@Yosry%20Ben%20Hlima-navy)](https://www.facebook.com/NottherealYxsry)
