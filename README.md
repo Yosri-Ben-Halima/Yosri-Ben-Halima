@@ -31,3 +31,5 @@ Thank you for visiting my GitHub profile! Feel free to reach out if you have any
 [![Instagram](https://img.shields.io/badge/Instagram-@yosrybh-orange)](https://www.instagram.com/yosrybh/)
 [![Email](https://img.shields.io/badge/Email-yosri.benhalima@ept.ucar.tn-white)](yosri.benhalima@ept.ucar.tn)
 [![Personal Web Page](https://img.shields.io/badge/Personal%20Web%20Page-Visit%20Now-green)](https://personal-web-page-yosribenhlima.streamlit.app/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yosri-Ben-Halima&label=Profile%20views&color=0e75b6&style=flat" alt="Yosri-Ben-Halima" /> </p>
