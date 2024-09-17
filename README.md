@@ -19,8 +19,8 @@ I leverage my expertise in Python, machine learning, and mathemarical modeling t
 - **What is your preferred programming language?** Python is my primary language for data analysis and modeling.
 - **Do you offer consulting services?** Yes, I’m available for freelance consulting in data science and quantitative finance.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosri-Ben-Halima&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yosri-Ben-Halima&theme=tokyonight) 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosri-Ben-Halima&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yosri-Ben-Halima&theme=tokyonight) --> 
 
 ## 🌐 Connect with Me
 
