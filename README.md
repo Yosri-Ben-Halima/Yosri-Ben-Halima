@@ -1,23 +1,26 @@
-# Welcome to Yosri Ben Halima's GitHub!
+# Welcome to Yosri Ben Halima's GitHub! 🚀
 
-## 👋 Introduction
+## 👋 Introduction  
 
-Hi there! I'm **Yosri Ben Halima**, a Quantitative Researcher/Data Scientist with a robust background in applied mathematics, machine learning, and quantitative finance. I specialize in developing data-driven solutions and creating impactful visualizations. Dive into my work to see how I turn data into actionable insights!
+Hi, I'm **Yosri Ben Halima**, a Quantitative Researcher and Data Scientist with a strong foundation in **applied mathematics, econometrics, and machine learning**.  
+I enjoy building **models for financial markets**, designing **data analytics pipelines**, and transforming complex datasets into **clear insights and strategies**.  
 
-## 🔍 What I Do
+## 🔍 What I Do  
 
-I leverage my expertise in Python, machine learning, and mathemarical modeling to tackle complex problems in finance and other fields. Here's a glimpse of what I do:
+I leverage my expertise in **Python, statistical modeling, and algorithm design** to tackle challenging problems in finance, AI, and data analytics.  
+Here are some areas I focus on:  
 
-- **Quantitative Finance** 📊: Building models for financial markets.
-- **Risk Management** 🔍: Analyzing and mitigating financial risks.
-- **Data Visualization** 📈: Crafting clear and compelling data visualizations.
-- **Machine Learning** 🤖: Applying advanced algorithms for predictive analytics.
-- **Programming** 💻: Python, SQL queries, and more for automation and analysis.
+- **📊 Quantitative Finance**: Stochastic modeling, derivatives pricing, and algorithmic trading research.  
+- **📉 Risk & Portfolio Analytics**: Stress testing, drawdowns, VaR/CVaR, and systematic strategy evaluation.  
+- **🤖 Machine Learning & AI**: From NLP to deep learning, applied to finance, trading, and real-world datasets.  
+- **📈 Data Visualization**: Storytelling with data using Matplotlib, Plotly, and interactive dashboards.  
+- **💻 Engineering**: Building end-to-end data pipelines and trading prototypes in Python.  
 
-## ❓ FAQs
+## ❓ FAQs  
 
-- **What is your preferred programming language?** Python is my primary language for data analysis and modeling.
-- **Do you offer consulting services?** Yes, I’m available for freelance consulting in data science and quantitative finance.
+- **What’s your main language?** Python is my go-to for research, analytics, and prototyping.  
+- **Do you consult or freelance?** Yes — I’m open to collaborations in **quant research, data science, and AI projects**.  
+- **What drives your work?** The challenge of combining math, data, and programming to solve problems and uncover strategies.  
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosri-Ben-Halima&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yosri-Ben-Halima&theme=tokyonight) --> 
