@@ -34,8 +34,7 @@ Thank you for visiting my GitHub profile! Feel free to reach out if you have any
 [![Facebook](https://img.shields.io/badge/Facebook-@Yosry%20Ben%20Hlima-navy?logo=facebook)](https://www.facebook.com/NottherealYxsry)
 [![Instagram](https://img.shields.io/badge/Instagram-@yosrybh-orange?logo=instagram)](https://www.instagram.com/yosrybh/)
 [![Email](https://img.shields.io/badge/Email-yosri.benhalima@ept.ucar.tn-white?logo=gmail)](mailto:yosri.benhalima@ept.ucar.tn)
-[![Personal Web Page](https://img.shields.io/badge/Personal%20Web%20Page-Visit%20Now-green?logo=googlechrome)](https://personal-web-page-yosribenhlima.streamlit.app/)
-[![Google Drive](https://img.shields.io/badge/My%20Resume-Click%20Here-red?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/18xB1tlZUBWz5URSli_9kewEFZwZPz235/view?usp=sharing)
+<!-- [![Google Drive](https://img.shields.io/badge/My%20Resume-Click%20Here-red?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/18xB1tlZUBWz5URSli_9kewEFZwZPz235/view?usp=sharing) -->
 [![PyPI](https://img.shields.io/badge/PyPI-yosri--ben--halima-pink?logo=pypi)](https://pypi.org/user/yosri-ben-halima/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yosri-Ben-Halima&label=Profile%20views&color=0e75b6&style=flat" alt="Yosri-Ben-Halima" /> </p>
