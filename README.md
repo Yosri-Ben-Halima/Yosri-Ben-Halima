@@ -18,4 +18,6 @@ My background is in applied mathematics, statistics, machine learning, and quant
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/yosri-benhalima/) · [Email](yosri.benhalima.pro@gmail.com) · [PyPI](https://pypi.org/user/yosri-ben-halima/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yosri%20Ben%20Halima-blue?logo=linkedin)](https://www.linkedin.com/in/yosri-benhalima/)
+[![Email](https://img.shields.io/badge/Email-yosri.benhalima.pro@gmail.com-white?logo=gmail)](mailto:yosri.benhalima.pro@gmail.com)
+[![PyPI](https://img.shields.io/badge/PyPI-yosri--ben--halima-pink?logo=pypi)](https://pypi.org/user/yosri-ben-halima/)
